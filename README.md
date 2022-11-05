@@ -1,3 +1,2 @@
-# E-Banking-Project
-Checked the age, gender, and occupation dependency on online banking, and built a predictive model to forecast the transactions through NEFT and RTGS using time
-series in R software
+# Customer Attrition - Machine Learning
+Prediction of customer churning by comparing different machines learning models and chances of customer churning based on different attributes by odds ratio.
